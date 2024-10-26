@@ -7,3 +7,6 @@ I just made a markdown file which contains a h1 header and a h6 header and  a co
 ``` python
 print("Hello, World!")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
